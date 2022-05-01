@@ -6,3 +6,5 @@ the acutal code for the system would not run unless attached to the sensors, thi
 for the 8 sensors.
 
 This project was sponsored by Jabil during Fall 2021 - Spring 2022 while I was attending Florida Polytechnic University. 
+
+Testing the logic of the code (file pushed to Git) was tested on MacOS within PyCharm CE IDE.
